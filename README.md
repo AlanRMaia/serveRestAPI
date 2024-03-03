@@ -38,5 +38,5 @@ newman run ServeRest.postman_collection.json -e serveRest_env.postman_environmen
 ### Report
 Se você optou por rodar os teste com o report htmlextra, você gerou um arquivo html com o resultado dos testes e para verificar as validaçõe
 ## Entre em contato
-email: priscila.caimi@hotmail.com
-redes socias: https://linktr.ee/priscilacaimi
+email: alanr.maia@hotmail.com
+
